@@ -1,5 +1,7 @@
 ### Hi there! 👋
 
+<img align="right" height="200px" width="350px" src="https://i.imgur.com/0Ub8zlQ.gif" alt="image" />
+
 
 
 - 🔭 I’m currently working on Personal Projects 
