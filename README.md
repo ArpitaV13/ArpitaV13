@@ -13,5 +13,5 @@
 &nbsp;
 <p>
 <img width="425px" align="left" src="https://github-readme-stats.vercel.app/api?username=arpita1899&theme=blue-green&show_icons=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpita1899&layout=compact&theme=blue-green" alt="image" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpita1899&layout=compact&theme=algolia" alt="image" />
 </p>
