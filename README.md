@@ -12,6 +12,6 @@
 - ⚡ Fun fact: If not on my laptop, you can find me grooving. 💃
 &nbsp;
 <p>
-<img width="425px" align="left" src="https://github-readme-stats.vercel.app/api?username=arpita1899&theme=blue-green&show_icons=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpita1899&layout=compact&theme=algolia" alt="image" />
+<img width="425px" align="left" src="https://github-readme-stats.vercel.app/api?username=ArpitaV13&theme=blue-green&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaV13&layout=compact&theme=algolia" alt="image" />
 </p>
