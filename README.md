@@ -4,10 +4,8 @@
 </p>
 &nbsp;
 
-- 🔭 I’m currently working on Personal Projects.
-- 🌱 I’m currently learning Web Development📖
-- 👯 I’m looking to collaborate on Web Projects.
-- 💬 Ask me about JavaScript :ice_cream:
+- 🔭 I’m currently working as an Associate Software engineer at Epam Systems.
+- 💬 Ask me about JavaScript, ReactJS, FLutter, Java, .NET :ice_cream:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arpitav13/) :hatched_chick: 
 - ⚡ Fun fact: If not on my laptop, you can find me grooving. 💃
 &nbsp;
