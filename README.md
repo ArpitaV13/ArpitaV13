@@ -5,7 +5,7 @@
 &nbsp;
 
 - 🔭 I’m currently working as a Software Engineer at Fuelbudy.
-- 💬 Ask me about JavaScript, ReactJS, FLutter, Java, .NET :ice_cream:
+- 💬 Ask me about Frontend, TypeScript, JavaScript, NextJs ReactJS :ice_cream:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arpitav13/) :hatched_chick: 
 - ⚡ Fun fact: If not on my laptop, you can find me grooving. 💃
 &nbsp;
